@@ -1,9 +1,10 @@
 User Personas
 
-Learner Personas
 
 Description:
 The Language Learning Website is designed to provide users with an interactive and personalized language learning experience. Users, classified as learners and tutors, can engage in structured lessons that include text, audio, and video content. Learners can test their knowledge through quizzes, track their progress with a dynamic dashboard, and practice pronunciation with integrated speech recognition technology. Tutors can create and upload engaging lessons, interact with learners in community forums, and track student progress to provide tailored feedback. The website aims to make language learning accessible, enjoyable, and effective, catering to various learning styles and preferences.
+
+Learner Personas
 
 Persona 1:
 Name: Sarah Johnson
